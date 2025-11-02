@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stockbit.automation.CucumberTestRunner
+-------------------------------------------------------------------------------
+Tests run: 43, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 133.0 s -- in com.stockbit.automation.CucumberTestRunner

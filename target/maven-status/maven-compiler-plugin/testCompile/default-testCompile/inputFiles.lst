@@ -1,0 +1,9 @@
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/utils/RequestUtils.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/steps/BasicApiSteps.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/CucumberTestRunner.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/steps/BookStep.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/utils/ApiContext.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/utils/ResponseUtils.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/steps/CompanyStep.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/data/response/bookResponseData.java
+/Users/apriliyantoko/Documents/Code/Stockbit/automation-api/src/test/java/com/stockbit/automation/config/CucumberSpringConfiguration.java
