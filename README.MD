@@ -62,7 +62,7 @@ mvn clean test
 
 #### Run Tests with Tags
 
-You can run specific tests by using Cucumber tags:
+You can run specific tests by using Cucumber tags in `CucumberTestRunner.java` :
 
 ```java
 @ConfigurationParameter(key = FILTER_TAGS_PROPERTY_NAME, value = "@Regression")"
