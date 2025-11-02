@@ -60,21 +60,22 @@ You can run the tests in several ways:
 mvn clean test
 ```
 
-#### Run Specific Test Class
-
-```bash
-mvn test -Dtest=CucumberTestRunner
-```
-
 #### Run Tests with Tags
 
 You can run specific tests by using Cucumber tags:
 
-```bash
-mvn test -Dcucumber.filter.tags="@books"
+```java
+@ConfigurationParameter(key = FILTER_TAGS_PROPERTY_NAME, value = "@Regression")"
 ```
 
-Replace `@books` with your specific tag.
+Replace `@Regression` with your specific tag.
+
+#### Run Specific Test Class
+After configuring the specific tag, you can run the scenario on terminal using command below
+
+```bash
+mvn test -Dtest=CucumberTestRunner
+```
 
 ### Viewing Test Reports
 
